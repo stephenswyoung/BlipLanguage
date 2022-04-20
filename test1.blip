@@ -1,0 +1,6 @@
+output + * 5 3 + 4 4
+text \n
+text "Hello World\n"
+text "the answer is "
+output 42
+text \n
